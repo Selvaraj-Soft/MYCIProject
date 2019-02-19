@@ -41,8 +41,8 @@ namespace Topics
             do
             {
                 Console.WriteLine("Do while condition numbers"+number);
-                number = number + 1;
-            } while (number <= 5);
+                number = number + 9;
+            } while (number <= 4);
 
         }
 
