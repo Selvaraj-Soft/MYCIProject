@@ -18,7 +18,7 @@ namespace Topics
 
         static void str_contains()
         {
-           Console.WriteLine( Text_methods.mytext.Contains("SARA"));
+           Console.WriteLine( Text_methods.mytext.Contains("Selva"));
 
         }
         static void string_char()
