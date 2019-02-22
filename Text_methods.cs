@@ -23,7 +23,7 @@ namespace Topics
         }
         static void string_char()
         {        
-            char[] ch = { 'R', 'A', 'J', 'U' };
+            char[] ch = { 'R', 'A', 'M', 'U' };
             string str = new string(ch);
             Console.WriteLine("Charatcter to string---->"+str);
         }
